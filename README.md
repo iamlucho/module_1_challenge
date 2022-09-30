@@ -4,5 +4,5 @@ Repository created for Module 1 Challenge in which a site's accessibility is imp
 ## Overview
 This repository contains the refactored Horiseon website for Module 1 Challenge. It includes the the source code HTML, CSS, and additional assets used to build the site.
 ## Screenshot
-![Screenshot of Horiseon site](/screenshot.png)
+![Screenshot of Horiseon site](assets/img/screenshot.png)
 
