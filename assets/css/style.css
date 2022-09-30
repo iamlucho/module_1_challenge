@@ -1,13 +1,16 @@
+/* Universal Style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Body Tag Style */
 body {
     background-color: #d9dcd6;
 }
 
+/*Header Tag Styles Section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +44,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*End of Header Tag Styles Section*/
+
+/*Links and Paragraphs Styles Section*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,6 +55,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/*Main Image class Tag Styles */
 
 .hero {
     height: 800px;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/*Main Tag Styles */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Side Menu "Benefits" Class Styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +143,7 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Content Section Class Styles */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +198,7 @@ main {
     font-size: 36px;
 }
 
+/* Footer Tag Styles */
 footer {
     padding: 30px;
     clear: both;
